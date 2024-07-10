@@ -1,0 +1,24 @@
+From 294c200ef481bb7757596940e9ded7c84981b40f Mon Sep 17 00:00:00 2001
+From: vard0han <vdavi21@freeuni.edu.ge>
+Date: Tue, 9 Jul 2024 16:34:42 +0400
+Subject: [PATCH] Modify two lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..012a39f 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++15
++26
+ 3
+ 4
+ 5
+-- 
+2.34.1
+
